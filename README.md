@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **AWS,MACHINE LEARNING**
 
+- 👨‍💻 View my Portfolio [https://jeevannd.lovable.app/](https://jeevannd.lovable.app/)
+
 - 📫 How to reach me **jeevanrajeshgowda@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FAgnKtVo1f6LVq3osou0NaI3Vnl2f_yU/view?usp=sharing](https://drive.google.com/file/d/1FAgnKtVo1f6LVq3osou0NaI3Vnl2f_yU/view?usp=sharing)
@@ -14,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/killerboy_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="killerboy_08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeevannd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevannd/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeevannd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevannd/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
