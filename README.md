@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-n-d" alt="jeevan-n-d" /></a> </p>
 
-- 🌱 I’m currently learning **AWS,MACHINE LEARNING**
-
 - 👨‍💻 View my Portfolio [https://jeevannd.lovable.app/](https://jeevannd.lovable.app/)
 
 - 📫 How to reach me **jeevanrajeshgowda@gmail.com**
