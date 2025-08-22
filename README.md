@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jeevanrajeshgowda@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FAgnKtVo1f6LVq3osou0NaI3Vnl2f_yU/view?usp=sharing](https://drive.google.com/file/d/1FAgnKtVo1f6LVq3osou0NaI3Vnl2f_yU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tWeEQ42xcSuzopDmPgyGyL5CGVkKJxQy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
